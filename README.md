@@ -15,13 +15,19 @@ Building automation, monitoring, and security tools for the homelab and self-hos
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Open Source Projects
 
 ### 🔒 Blocklist Manager
+Advanced pfBlockerNG gap analysis and blocklist automation tool.
 
-A self-hosted tool that automatically finds and fills the gaps in your pfBlockerNG blocklists.
+### 🛡 pfSense & CrowdSec Automation
+Monitoring, alerting, auto-ban systems, and security automation tools.
 
-🌐 https://ngfblog.github.io/blocklist-manager/
+### 🏠 Homelab & Self-Hosted Tools
+Automation utilities and infrastructure tools for self-hosted environments.
+
+### 🔔 Gotify Integrations
+Custom notification systems and alert automation for homelab monitoring.
 
 ---
 
