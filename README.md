@@ -1,61 +1,47 @@
-# 👋 Welcome to ShopNGF
+# 👋 ShopNGF
 
-Building automation, monitoring, and security tools for the homelab and self-hosted community.
-
----
-
-## 🔧 Main Technologies
-
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-Security-green?style=for-the-badge)
-![pfBlockerNG](https://img.shields.io/badge/pfBlockerNG-Blocklists-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-SelfHosted-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Homelab-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Security automation, homelab tooling, and self-hosted infrastructure projects.
 
 ---
 
-## 🚀 Open Source Projects
+## 🔧 Technologies
 
-### 🔒 Blocklist Manager
-Advanced pfBlockerNG gap analysis and blocklist automation tool.
-
-### 🛡 pfSense & CrowdSec Automation
-Monitoring, alerting, auto-ban systems, and security automation tools.
-
-### 🏠 Homelab & Self-Hosted Tools
-Automation utilities and infrastructure tools for self-hosted environments.
-
-### 🔔 Gotify Integrations
-Custom notification systems and alert automation for homelab monitoring.
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?style=flat-square)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-Security-green?style=flat-square)
+![pfBlockerNG](https://img.shields.io/badge/pfBlockerNG-Blocklists-orange?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-SelfHosted-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Homelab-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 🛠 What I Build
+## 🚀 Projects
 
 - pfSense automation tools
 - CrowdSec integrations
 - pfBlockerNG utilities
-- Security monitoring scripts
-- Gotify alert systems
-- Homelab automation
-- Self-hosted infrastructure tools
+- Security monitoring systems
+- Gotify notification integrations
+- Homelab infrastructure automation
+- Self-hosted tooling
+- GitHub Actions workflows
 
 ---
 
-## ❤️ Support The Project
+## 🛠 Focus Areas
 
-All projects are created and maintained in my free time for the community.
+- Network security
+- Infrastructure automation
+- Monitoring & alerting
+- Self-hosted services
+- Firewall management
+- Threat detection
+- Homelab engineering
 
-If my tools helped you secure your network, automate your setup, or save time troubleshooting, consider supporting future development.
+---
 
-Your support helps me continue building and improving open-source tools for the homelab community.
+## ❤️ Support
+
+If my projects helped you or saved you time, consider supporting future development:
 
 👉 https://paypal.me/ShopNGF
-
----
-
-## 🌍 Connect
-
-- GitHub Pages: https://ngfblog.github.io/
-- PayPal: https://paypal.me/ShopNGF
